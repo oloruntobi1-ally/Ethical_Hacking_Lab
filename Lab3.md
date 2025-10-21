@@ -1,3 +1,7 @@
+<img width="1600" height="900" alt="Screenshot 1" src="https://github.com/user-attachments/assets/46f452ea-7503-440e-9738-d688db69807d" />
+<img width="1600" height="900" alt="Screenshot 2" src="https://github.com/user-attachments/assets/8b53a894-bf75-4e97-a151-4b1304bfd96c" />
+<img width="1600" height="897" alt="Screenshot 3" src="https://github.com/user-attachments/assets/0a8cc5fe-f6d4-4f5e-a7cc-65da4d9dd1ab" />
+<img width="1600" height="554" alt="screenshot 4" src="https://github.com/user-attachments/assets/60ea062a-0d2c-481e-a784-fb26f5f61e66" />
 # GitHub.com Domain Information Summary
 
 | **Category** | **Details** |
